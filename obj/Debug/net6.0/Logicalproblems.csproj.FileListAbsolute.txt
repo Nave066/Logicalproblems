@@ -1,0 +1,15 @@
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\bin\Debug\net6.0\Logicalproblems.exe
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\bin\Debug\net6.0\Logicalproblems.deps.json
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\bin\Debug\net6.0\Logicalproblems.runtimeconfig.json
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\bin\Debug\net6.0\Logicalproblems.dll
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\bin\Debug\net6.0\ref\Logicalproblems.dll
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\bin\Debug\net6.0\Logicalproblems.pdb
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.csproj.AssemblyReference.cache
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.AssemblyInfo.cs
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.dll
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\ref\Logicalproblems.dll
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.pdb
+C:\Users\jayam\source\repos\Logicalproblems\Logicalproblems\obj\Debug\net6.0\Logicalproblems.genruntimeconfig.cache
